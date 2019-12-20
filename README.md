@@ -1,21 +1,9 @@
-# Proj3
+# Tapestry routing
 
-**TODO: Add description**
+**Do not copy if this is  your homework**
 
-## Installation
+## How to run
 
-If [available in Hex](https://hex.pm/docs/publish), the package can be installed
-by adding `proj3` to your list of dependencies in `mix.exs`:
+mix run Project.exs num_nodes num_requests
 
-```elixir
-def deps do
-  [
-    {:proj3, "~> 0.1.0"}
-  ]
-end
-```
-
-Documentation can be generated with [ExDoc](https://github.com/elixir-lang/ex_doc)
-and published on [HexDocs](https://hexdocs.pm). Once published, the docs can
-be found at [https://hexdocs.pm/proj3](https://hexdocs.pm/proj3).
-
+Read Description.pdf for complete information and how to run
